@@ -19,7 +19,6 @@ To design a simple and user-friendly Airtel Super App that integrates telecom, p
 10. **Stop**.
 ## Problem statement:
 
-**PROBLEM STATEMENT:
 Problem Statement – Airtel Super App
 Title: Improving the User Experience of a Unified Telecom, Banking, Payment, and Customer Support Application
 
